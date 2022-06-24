@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](www.github.com/timoluxinne)
-
+[![https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](../../)
+[me](www.github.com)
 <!--
 **timoluxinne/timoluxinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
