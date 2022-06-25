@@ -5,8 +5,7 @@ Welcome to my profile. I am a student, an aspiring Data Engineer and Interior De
 - 👯 I’m looking to collaborate on D.A Projects
 - ⚡ Fun fact: I ♥️ Huskies 🐕
 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timoluxinne&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timoluxinne&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timoluxinne&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timoluxinne&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=timoluxinne&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
