@@ -10,9 +10,6 @@ Welcome to my profile. I am a student, an aspiring Data Engineer and Interior De
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=timoluxinne&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ekazfabw073ezlpum4qlcze2b&cover_image=true&theme=novatorem&bar_color=e01b24&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ekazfabw073ezlpum4qlcze2b&redirect=true)
-
 <!--
 **timoluxinne/timoluxinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://open.spotify.com/user/ekazfabw073ezlpum4qlcze2b?si=c0d2be08bd014fd3
