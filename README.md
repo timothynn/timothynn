@@ -1,5 +1,5 @@
 # Hi, I'm Tim 👋
-Welcome to my profile. I am a student, an aspiring Data Engineer and Interior Desinger enthusiast. Thank you for visiting and I'd love to [connect](https://www.linkedin.com/in/timothy-nduati-068029200/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrzHpr32JSzmG%2BnU2iW5O9w%3D%3D) :)
+Welcome to my profile. I am a student, an aspiring Data Engineer and Data enthusiast. Thank you for visiting and I'd love to [connect](https://www.linkedin.com/in/timothy-nduati-068029200/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrzHpr32JSzmG%2BnU2iW5O9w%3D%3D) :)
 
 - 🌱 I’m currently learning Data Analysis.
 - 👯 I’m looking to collaborate on D.A Projects
