@@ -1,13 +1,10 @@
-# Hi, I'm Tim 👋
-Welcome to my profile. I am a student, an aspiring Data Engineer and Data enthusiast. Thank you for visiting and I'd love to [connect](https://www.linkedin.com/in/timothy-nduati-068029200/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrzHpr32JSzmG%2BnU2iW5O9w%3D%3D) :)
+## Hi, I'm Tim 👋
+Welcome to my profile. I'm student pursing Data Engineering. I am interested in Machine Learning, Workflows, Databases and CI/CD Pipelines. 
 
-- 🌱 I’m currently learning Data Analysis.
-- 👯 I’m looking to collaborate on D.A Projects
-- ⚡ Fun fact: I ♥️ Huskies 🐕
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=true&theme=github_dark&hide_title=true)]() 
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&show_icons=true&theme=github_dark)]()
 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=true&theme=github_dark&hide_title=true)]()[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&show_icons=true&theme=github_dark)]()
 
-  
 <!--
 **timoluxinne/timoluxinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://open.spotify.com/user/ekazfabw073ezlpum4qlcze2b?si=c0d2be08bd014fd3
