@@ -2,10 +2,10 @@
 Welcome to my profile. I'm student pursing Data Engineering. I am interested in Machine Learning, Workflows, Databases and CI/CD Pipelines. 
 
 <div>
-<a href="#">
+<a href="#" style="width:50%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=false&hide_border=True&theme=github_dark&hide_title=true" />
 </a>
-<a href="#">
+<a href="#" style="width:50%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&hide_border=True&show_icons=true&theme=github_dark" />
 </a>
 </div>
