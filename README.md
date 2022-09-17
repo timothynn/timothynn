@@ -3,12 +3,13 @@
 </a>
 
 ##### 
-Welcome to my profile. I'm student pursing Data Engineering. I am interested in Machine Learning, Workflows, Databases and CI/CD Pipelines. 
+Welcome to my profile. I'm student pursing Data Engineering. I am interested in Machine Learning, ETL Pipelines and CI/CD Pipelines. 
 
 
-<a href="#"">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=false&layout=compact&hide_border=True&theme=github_dark&hide_title=true" />
-</a><a href="#"">
+</a>
+<a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&hide_border=True&show_icons=true&theme=github_dark" />
 </a>
 
