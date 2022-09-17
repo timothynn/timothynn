@@ -9,6 +9,9 @@ Welcome to my profile. I'm student pursing Data Engineering. I am interested in 
  <a href="#">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=false&layout=compact&hide_border=True&theme=github_dark&hide_title=true" />
  </a>
+ <a href="#">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=false&layout=compact&hide_border=True&theme=github_dark&hide_title=true" />
+ </a>
 </p>
 
 
