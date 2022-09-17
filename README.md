@@ -7,10 +7,10 @@ Welcome to my profile. I'm student pursing Data Engineering. I am interested in 
 
 <p>
  <a href="#">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=false&layout=compact&hide_border=True&theme=github_dark&hide_title=true" />
+   <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=false&layout=compact&hide_border=True&theme=github_dark&hide_title=true" />
  </a>
  <a href="#">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=false&layout=compact&hide_border=True&theme=github_dark&hide_title=true" />
+   <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=false&layout=compact&hide_border=True&theme=github_dark&hide_title=true" />
  </a>
 </p>
 
