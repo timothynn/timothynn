@@ -3,7 +3,10 @@
 </a>
 
 ##### 
-Welcome to my profile. I'm student pursing Data Engineering. I am interested in Machine Learning, ETL Pipelines and CI/CD Pipelines. 
+
+<p align="center">
+Welcome to my profile. I'm a student pursing Computer Science. I'm interested Data Engineering. I mainly focus on Machine Learning, Feature Engineering, Time Series ETL Pipelines and CI/CD Pipelines, Data Warehousing and Data Lakes. 
+<p>
 
 <p>
  <a href="#">
