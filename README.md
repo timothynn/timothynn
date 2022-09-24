@@ -10,7 +10,7 @@ Welcome to my profile. I'm a student pursing Computer Science. I'm interested Da
 
 <p>
  <a href="#">
-   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=false&layout=compact&hide_border=True&theme=github_dark&hide_title=true" />
+   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=true&layout=compact&hide_border=True&theme=github_dark&hide_title=true" />
  </a>
  <a href="#">
    <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&hide_border=True&show_icons=true&theme=github_dark" />
