@@ -17,7 +17,11 @@ Welcome to my profile. I'm a student pursing Computer Science. I'm interested Da
  </a>
 </p>
 
-
+<p align="center">
+ <a href="#" >
+   <img align="center" src="https://streak-stats.demolab.com/?user=timothynn&theme=tokyonight_duo&hide_border=true" />
+ </a>
+</p>
 <!--
 
 
