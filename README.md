@@ -22,6 +22,13 @@ Welcome to my profile. I'm a student pursing Computer Science. I'm interested Da
    <img align="center" src="https://streak-stats.demolab.com/?user=timothynn&theme=tokyonight_duo&hide_border=true" />
  </a>
 </p>
+
+<p align="end">
+ <b>"We become what we think about", </b>
+ <i>Earl Nightingale.</i>
+</p>
+
+
 <!--
 
 
