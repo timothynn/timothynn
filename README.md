@@ -8,10 +8,10 @@
       <b>
         Hi There 👋
       <br>
-        I'm Tim, a Student, I like working with Machine Learning, Data Engineering and linux.
+        I'm Tim, a Student, I like working with Machine Learning and Data Engineering stuff.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=3D9BE1&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
       <br>
       <b>
         ~ Timothy Nduati ~
@@ -22,6 +22,9 @@
 
 <br>
 
+ 
+
+  
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
@@ -31,9 +34,10 @@
 <p align="center">
   <samp>
     [<a href="https://twitter.com/im4_tim">twitter</a>]
-    [<a href="https://instagram.com/timothynn">instagram</a>]
-<!--     [<a href="https://matrix.to/#/@rxyhn:matrix.org">matrix</a>] -->
+    [<a href="https://open.spotify.com/user/ekazfabw073ezlpum4qlcze2b?si=db69a0ccf47243d5">spotify</a>]
     [<a href="mailto:timothynn08@gmail.com">e-mail</a>]
+    [<a href="https://kaggle.com/timothynn">kaggle</a>]
+    [<a href="https://www.linkedin.com/in/timothy-nduati-068029200/">linkedin</a>]
   </samp>
 </p>
 
@@ -52,7 +56,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=timothynn&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=timothynn&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=tokyonight"></a></td>
     </tr>
   </table>
 </div>
@@ -61,8 +65,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothynn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothynn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
     </tr>
   </table>
 </div>
