@@ -28,7 +28,7 @@
   <samp>
     [<a href="https://twitter.com/im4_tim">twitter</a>]
     [<a href="https://www.linkedin.com/in/timothynn/">linkedin</a>]
-    [<a href="https://kaggle.com/timothynn">kaggle</a>]
+    [<a href="https://kaggle.com/timothynnduati">kaggle</a>]
 <!--     [<a href="https://open.spotify.com/user/ekazfabw073ezlpum4qlcze2b?si=db69a0ccf47243d5">spotify</a>] -->
     [<a href="mailto:timothynn08@gmail.com">e-mail</a>]
     
