@@ -8,10 +8,10 @@
       <b>
         Hello There
       <br>
-        I'm Tim, a Student, I like Penguins and Apples, but I don't like Windows.
+        I'm Tim, a Student, certified Azure Data Scientist Associate.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+learn+and+build+ML+programs.">
       <br>
       <b>
         ~ Timothy Nduati ~
