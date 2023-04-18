@@ -31,9 +31,9 @@
 <p align="center">
   <samp>
     [<a href="https://twitter.com/timothynn_">twitter</a>]
-    [<a href="https://instagram.com/timothynn0_">instagram</a>]
     [<a href="https://matrix.to/#/@timothynn:matrix.org">matrix</a>]
     [<a href="mailto:timothynn08@gmail.com">e-mail</a>]
+    [<a rel="me" href="https://mastodon.social/@timothynn">Mastodon</a>]
   </samp>
 </p>
 
