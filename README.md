@@ -6,12 +6,12 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
+        Hi, 👋
       <br>
-        I'm Tim, a Student, certified Azure Data Scientist Associate.
+        I'm Tim, a Student and Data Scientist.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+learn+and+build+ML+programs.">
+         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=500&height=45&lines=Turning+coffee+into+insights.+One+cup+at+a+time.">
       <br>
       <b>
         ~ Timothy Nduati ~
@@ -30,8 +30,8 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/im4_tim">twitter</a>]
-    [<a href="https://instagram.com/timothynn08">instagram</a>]
+    [<a href="https://twitter.com/timothynn_">twitter</a>]
+    [<a href="https://instagram.com/timothynn0_">instagram</a>]
     [<a href="https://matrix.to/#/@timothynn:matrix.org">matrix</a>]
     [<a href="mailto:timothynn08@gmail.com">e-mail</a>]
   </samp>
@@ -43,7 +43,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=timothynn&label=Profile+Views&color=grey" alt="profile views" /> 
   </a>
   </samp>
 </p>
