@@ -87,15 +87,9 @@
   <h3>⚡ Recent GitHub Activity</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5332](https://github.com/is-a-dev/register/pull/5332) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🎉 Merged PR [#1](https://github.com/timothynn/All-In-For-Students-Graduation-2023/pull/1) in [timothynn/All-In-For-Students-Graduation-2023](https://github.com/timothynn/All-In-For-Students-Graduation-2023)
-3. 💪 Opened PR [#1](https://github.com/timothynn/All-In-For-Students-Graduation-2023/pull/1) in [timothynn/All-In-For-Students-Graduation-2023](https://github.com/timothynn/All-In-For-Students-Graduation-2023)
-
-4. ❗️ Opened issue [#37](https://github.com/Nutlope/twitterbio/issues/37) in [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio)
-
   <!--END_SECTION:activity-->
 
-<h3> Wakatime </h3>
+<h3> :zap: Wakatime </h3>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </details>
