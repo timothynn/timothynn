@@ -72,8 +72,8 @@
 <!--   </table> -->
 <!-- </div> -->
 
-<a href="#"><img height="192px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothynn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a> 
-<a href="#"><img height="192px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a>
+<a href="#"><img height="192px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothynn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&width=150px"/></a> 
+<a href="#"><img height="192px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&line_height=21&hide_border=true&theme=nord&width=150px"/></a>
 
 
 <!-- 
