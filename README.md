@@ -95,6 +95,11 @@
 
 <h3> :zap: Wakatime </h3>
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </details>
 </div>
