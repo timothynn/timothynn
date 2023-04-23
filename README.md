@@ -86,7 +86,7 @@
   <h3>⚡ Recent GitHub Activity</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-
+```
 1. 💪 Opened PR [#5332](https://github.com/is-a-dev/register/pull/5332) in [is-a-dev/register](https://github.com/is-a-dev/register)
 2. 🎉 Merged PR [#1](https://github.com/timothynn/All-In-For-Students-Graduation-2023/pull/1) in [timothynn/All-In-For-Students-Graduation-2023](https://github.com/timothynn/All-In-For-Students-Graduation-2023)
 3. 💪 Opened PR [#1](https://github.com/timothynn/All-In-For-Students-Graduation-2023/pull/1) in [timothynn/All-In-For-Students-Graduation-2023](https://github.com/timothynn/All-In-For-Students-Graduation-2023)
@@ -95,8 +95,9 @@
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
-
   <!--END_SECTION:activity-->
+
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 </div>
