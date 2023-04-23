@@ -82,5 +82,13 @@
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+
+<h3> :zap: Wakatime
+<!-- https://wakatime.com -->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 </details>
 </div>
