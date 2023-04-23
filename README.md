@@ -52,7 +52,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=timothynn&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
+      <td><a href=""><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=timothynn&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
     </tr>
   </table>
 </div>
