@@ -90,7 +90,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 June 2022 - To: 22 April 2023
+
+Total Time: 128 hrs 59 mins
+
+Other   128 hrs 59 mins █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
