@@ -48,8 +48,6 @@
   </samp>
 </p>
   
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=timothynn_)](https://github.com/gazf/github-readme-twitter)
-
 <!-- Github Trophy -->
 <div align="center">
   <table>
