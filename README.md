@@ -47,6 +47,8 @@
   </a>
   </samp>
 </p>
+  
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=timothynn_)](https://github.com/gazf/github-readme-twitter)
 
 <!-- Github Trophy -->
 <div align="center">
@@ -78,9 +80,9 @@
 
 
   <h3>⚡ Recent GitHub Activity</h3>
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!--START_SECTION:activity-->
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 </div>
