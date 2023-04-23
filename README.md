@@ -65,18 +65,22 @@
 [![Tim's github streak](https://github-readme-streak-stats.herokuapp.com/?user=timothynn&theme=nord)](https://github.com/timothynn/github-readme-streak-stats)
 
 <!-- Github Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="200px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothynn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="200px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
-</div>
+<!-- <div align="center"> -->
+<!--   <table> -->
+<!--     <tr> -->
+<!--       <td><a href="#--------"><img height="200px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothynn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td> -->
+<!--       <td><a href="#--------"><img height="200px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td> -->
+<!--     </tr> -->
+<!--   </table> -->
+<!-- </div> -->
+
+<a href="#--------"><img height="200px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothynn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a> <a href="#--------"><img height="200px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a>
+
+
 <!-- 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=timothynn&theme=nord&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=timothynn&theme=nord&hide_border=true&area=true&height=300" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=timothynn&hide_border=true&area=true&height=300&theme=nord" /></a>
 
 
   <h3>⚡ Recent GitHub Activity</h3>
