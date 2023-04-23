@@ -74,7 +74,8 @@
 <!--   </table> -->
 <!-- </div> -->
 
-<a href="#--------"><img height="192px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothynn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a> <a href="#--------"><img height="192px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a>
+<a href="#"><img height="192px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothynn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a> 
+<a href="#"><img height="192px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a>
 
 
 <!-- 
@@ -86,18 +87,16 @@
   <h3>⚡ Recent GitHub Activity</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-```
 1. 💪 Opened PR [#5332](https://github.com/is-a-dev/register/pull/5332) in [is-a-dev/register](https://github.com/is-a-dev/register)
 2. 🎉 Merged PR [#1](https://github.com/timothynn/All-In-For-Students-Graduation-2023/pull/1) in [timothynn/All-In-For-Students-Graduation-2023](https://github.com/timothynn/All-In-For-Students-Graduation-2023)
 3. 💪 Opened PR [#1](https://github.com/timothynn/All-In-For-Students-Graduation-2023/pull/1) in [timothynn/All-In-For-Students-Graduation-2023](https://github.com/timothynn/All-In-For-Students-Graduation-2023)
 
 4. ❗️ Opened issue [#37](https://github.com/Nutlope/twitterbio/issues/37) in [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio)
-No activity tracked
-```
 
   <!--END_SECTION:activity-->
 
-  <!--START_SECTION:waka-->
+<h3> Wakatime </h3>
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </details>
 </div>
