@@ -76,7 +76,7 @@
 <!-- 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=timothynn&theme=nord&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=timothynn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&area=true&height=300" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=timothynn&theme=nord&hide_border=true&area=true&height=300" /></a>
 
 
   <h3>⚡ Recent GitHub Activity</h3>
