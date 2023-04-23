@@ -72,8 +72,6 @@
   </table>
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=timothynn&theme=nord&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-  
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tim's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=timothynn&hide_border=true&area=true&height=300&theme=nord" /></a>
 
 
