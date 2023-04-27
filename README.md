@@ -90,11 +90,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 June 2022 - To: 24 April 2023
+From: 23 June 2022 - To: 26 April 2023
 
-Total Time: 130 hrs 6 mins
+Total Time: 134 hrs 21 mins
 
-Other      129 hrs         ████████████████████████▓   99.15 %
+Other         129 hrs         ████████████████████████░   96.01 %
 ```
 
 <!--END_SECTION:waka-->
