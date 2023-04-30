@@ -63,7 +63,7 @@
 
 <div align="center">
   <a href="" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=timothynn&theme=nord&layout=compact" />   
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=timothynn&theme=nord&layout=compact&hide_border=true" />   
   </a>
 </div>
 <!-- Github Stats -->
@@ -80,7 +80,7 @@
   
 <div align="center">
   <a href="#" >
-     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=timothynn&theme=nord&layout=compact" align="center" alt="Wakatime Stats" />
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=timothynn&theme=nord&layout=compact&hide_border=true" align="center" alt="Wakatime Stats" />
   </a>
 </div>  
 
