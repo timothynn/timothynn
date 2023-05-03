@@ -23,7 +23,7 @@
 <br>
 
 <details>
-<summary><samp><b>More Info</b></samp></summary>
+<summary><samp><b>Github Stats</b></samp></summary>
 
 <h2></h2><br>
 
@@ -78,11 +78,11 @@
   
 <br>
   
-<div align="center">
+<!-- <div align="center">
   <a href="#" >
      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=timothynn&theme=nord&layout=compact&hide_border=true" align="center" alt="Wakatime Stats" />
   </a>
-</div>  
+</div>   -->
 
 
 <div align="center">
@@ -116,4 +116,11 @@ Other         131 hrs 6 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.34 %
 
 <!--END_SECTION:waka-->
 </details>
+<details>
+  
+<summary><samp><b>More Info</b></samp></summary>
+
+</details>
+
+
 </div>
