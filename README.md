@@ -103,18 +103,6 @@
 
 <!--END_SECTION:activity-->
 
-<h3> :zap: Wakatime </h3>
-<!--START_SECTION:waka-->
-
-```text
-From: 23 June 2022 - To: 01 May 2023
-
-Total Time: 141 hrs 58 mins
-
-Other         131 hrs 6 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.34 %
-```
-
-<!--END_SECTION:waka-->
 </details>
 <details>
   
