@@ -97,7 +97,7 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#5158](https://github.com/starship/starship/issues/5158) in [starship/starship](https://github.com/starship/starship)
-2. ❗️ Opened issue [#5158](https://github.com/starship/starship/issues/5158) in [starship/starship](https://github.com/starship/starship)
+2. ❗ Opened issue [#5158](https://github.com/starship/starship/issues/5158) in [starship/starship](https://github.com/starship/starship)
 3. 🎉 Merged PR [#2](https://github.com/timothynn/Palmer-Penguins-Clustering/pull/2) in [timothynn/Palmer-Penguins-Clustering](https://github.com/timothynn/Palmer-Penguins-Clustering)
 4. 💪 Opened PR [#2](https://github.com/timothynn/Palmer-Penguins-Clustering/pull/2) in [timothynn/Palmer-Penguins-Clustering](https://github.com/timothynn/Palmer-Penguins-Clustering)
 
