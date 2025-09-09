@@ -1,45 +1,45 @@
-# Hi there — I'm [Your Name] 👋
+# Hi there, I'm [Your Name] 👋
 
-Aspiring **Data Engineer**, graduating this November with a BSc in Computer Science. Building scalable data pipelines and lakehouse workflows. Fully switching to **NixOS** for reproducible and declarative dev environments. Based in Nairobi, KE.
+## About Me
+I'm a passionate **Data Engineer** specializing in building scalable data pipelines, ETL workflows, and data warehouse solutions. Experienced with Python, SQL, Apache Airflow, Kafka, Spark, and cloud platforms like AWS and GCP. I love turning raw data into actionable insights by designing efficient, reliable, and maintainable data architectures.
 
-<details>
-<summary><strong>What I Do</strong></summary>
+## 🛠️ Tech Stack
+- Programming & Scripting: Python, SQL, Bash
+- Data Engineering Tools: Apache Airflow, Apache Kafka, Spark, Hadoop
+- Databases & Warehouses: PostgreSQL, MySQL, Amazon Redshift, Google BigQuery
+- Cloud Platforms: AWS (S3, Lambda, EC2), Google Cloud Platform (BigQuery, Dataflow)
+- Containerization & Orchestration: Docker, Kubernetes
+- Others: Git, Jenkins, Terraform, dbt
 
-- Batch & streaming pipelines, data modeling, and CI/CD with NixOS flakes  
-- Tools: Python, SQL, Spark, Airflow, Kafka, Delta Lake, Great Expectations, Docker, GitHub Actions
+## 🚀 Featured Projects
 
-</details>
+### [Project Name 1]
+- Built a scalable ETL pipeline using Apache Airflow to automate daily data ingestion and transformation from multiple sources.
+- Technologies: Python, Airflow, PostgreSQL, AWS S3
+- [Repository Link](https://github.com/yourusername/project1)
 
-<details>
-<summary><strong>Projects</strong></summary>
+### [Project Name 2]
+- Designed a real-time data streaming application using Kafka to process and analyze streaming logs for anomaly detection.
+- Technologies: Kafka, Spark Streaming, Python
+- [Repository Link](https://github.com/yourusername/project2)
 
-- **Lakehouse-in-a-Box**: Spark + Delta Lake pipelines with lineage and quality checks, deployable via Nix flake  
-- **Streaming Orders**: Kafka + Spark Streaming for near-real-time aggregation, containerized for reproducibility  
-- **DataOps Template**: Repo template with CI, linting, contract checks, bootstrapped with Nix
+### [Project Name 3]
+- Developed a data warehouse on Amazon Redshift to centralize analytics for multiple business units, improving query performance by 40%.
+- Technologies: Redshift, SQL, dbt, AWS Glue
+- [Repository Link](https://github.com/yourusername/project3)
 
-</details>
+## 📈 GitHub Stats
 
-<details>
-<summary><strong>Workflow</strong></summary>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
 
-- Schema-first design with automated testing & documentation as code  
-- CI/CD pipelines with reproducible environments and data quality validation
+## 📫 How to Reach Me
 
-</details>
+- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: your.email@example.com
 
-<details>
-<summary><strong>Highlights</strong></summary>
+---
 
-- Shipped end-to-end pipelines with data lineage and BI-ready outputs  
-- Migrated workflows fully to NixOS flakes and GitHub Actions CI
+*“Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee*
 
-</details>
-
-## Contact
-
-- LinkedIn: [link]  
-- Email: [email]  
-- Portfolio: [link]  
-
-Feel free to reach out for discussions, walkthroughs, or collaboration!
 
