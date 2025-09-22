@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Timothy Nduati 👋
 
 ## About Me
 I'm a passionate **Data Engineer** specializing in building scalable data pipelines, ETL workflows, and data warehouse solutions. Experienced with Python, SQL, Apache Airflow, Kafka, Spark, and cloud platforms like AWS and GCP. I love turning raw data into actionable insights by designing efficient, reliable, and maintainable data architectures.
