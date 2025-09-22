@@ -8,7 +8,7 @@
       <b>
         Hi, 👋
       <br>
-        I'm Tim, a Student and Data Scientist.
+        I'm Tim, a graduate and an aspiring Data Engineer | DevOps.
       </b>
       <br>
          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=500&height=45&lines=Turning+coffee+into+insights.+One+cup+at+a+time.">
