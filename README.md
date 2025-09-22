@@ -11,32 +11,11 @@ I'm a passionate **Data Engineer** specializing in building scalable data pipeli
 - Containerization & Orchestration: Docker, Kubernetes
 - Others: Git, Jenkins, Terraform, dbt
 
-## 🚀 Featured Projects
-
-### [Project Name 1]
-- Built a scalable ETL pipeline using Apache Airflow to automate daily data ingestion and transformation from multiple sources.
-- Technologies: Python, Airflow, PostgreSQL, AWS S3
-- [Repository Link](https://github.com/yourusername/project1)
-
-### [Project Name 2]
-- Designed a real-time data streaming application using Kafka to process and analyze streaming logs for anomaly detection.
-- Technologies: Kafka, Spark Streaming, Python
-- [Repository Link](https://github.com/yourusername/project2)
-
-### [Project Name 3]
-- Developed a data warehouse on Amazon Redshift to centralize analytics for multiple business units, improving query performance by 40%.
-- Technologies: Redshift, SQL, dbt, AWS Glue
-- [Repository Link](https://github.com/yourusername/project3)
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
-
 ## 📫 How to Reach Me
 
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
+- LinkedIn: [your-linkedin](https://linkedin.com/in/timothynn)
+- Twitter: [@yourhandle](https://twitter.com/timothynn_)
+- Email: timothynn08@gmail.com
 
 ---
 
