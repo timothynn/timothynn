@@ -1,17 +1,30 @@
-<p align="center">
-  <samp>
-    <b>
-      Welcome
-      <br />
-      I'm Timothy Nduati, The Pipeline Architect.
-    </b>
-    <br />
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+data+pipelines;Transforming+data+into+insights;Azure+Certified+Data+Scientist;Software+Engineer+%E2%86%92+Data+Engineer"
-      alt="Typing SVG"
-    />
-  </samp>
-</p>
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║                       ███╗   ██╗██████╗ ██╗   ██╗ █████╗ ████████╗██╗         ║
+║                       ████╗  ██║██╔══██╗██║   ██║██╔══██╗╚══██╔══╝██║         ║
+║                       ██╔██╗ ██║██║  ██║██║   ██║███████║   ██║   ██║         ║
+║                       ██║╚██╗██║██║  ██║██║   ██║██╔══██║   ██║   ██║         ║
+║                       ██║ ╚████║██████╔╝╚██████╔╝██║  ██║   ██║   ██║         ║
+║                       ╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝         ║
+║                                                                               ║
+║                              ═══ THE GREAT ═══                                ║
+║                                                                               ║
+║                        Timothy Nduati • @timothynn                            ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+</div>
+
+<div align="center">
+
+**CS Grad • Azure Certified Data Scientist • Software Engineer → Data Engineer**
+
+*Building the bridge between code and insights*
+
+</div>
 
 ---
 
