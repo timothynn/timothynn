@@ -1,19 +1,8 @@
-<div align="center">```ascii
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║                       ███╗   ██╗██████╗ ██╗   ██╗ █████╗ ████████╗██╗         ║
-║                       ████╗  ██║██╔══██╗██║   ██║██╔══██╗╚══██╔══╝██║         ║
-║                       ██╔██╗ ██║██║  ██║██║   ██║███████║   ██║   ██║         ║
-║                       ██║╚██╗██║██║  ██║██║   ██║██╔══██║   ██║   ██║         ║
-║                       ██║ ╚████║██████╔╝╚██████╔╝██║  ██║   ██║   ██║         ║
-║                       ╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝         ║
-║                                                                               ║
-║                              ═══ THE GREAT ═══                                ║
-║                                                                               ║
-║                        Timothy Nduati • @timothynn                            ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```</div>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Timothy+Nduati;%40timothynn;Data+Engineer+%7C+Azure+Certified;Building+Systems+That+Scale" alt="Typing SVG" />
+
+</div>
 
 <div align="center">
 
