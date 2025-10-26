@@ -1,19 +1,15 @@
 <div align="center">
 
-<h1>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  Timothy Nduati
-</h1>
+<img height="100" src="https://user-images.githubusercontent.com/yourusername/yourlogo.png" alt="TN Logo"/>
 
-### The Pipeline Architect • @timothynn
-```text
-CS Graduate  |  Azure Certified Data Scientist  |  Aspiring Data Engineer
-                    Software Engineering Background
-```
+# Timothy Nduati
+## The Data Alchemist
 
-*Transforming data into actionable insights, one pipeline at a time*
+![CS Graduate](https://img.shields.io/badge/CS-Graduate-blue?style=for-the-badge)
+![Azure Certified](https://img.shields.io/badge/Azure-Data_Scientist-0078D4?style=for-the-badge&logo=microsoft-azure)
+![Role](https://img.shields.io/badge/Role-Data_Engineer-orange?style=for-the-badge)
 
----
+**`Software Engineer → Data Scientist → Data Engineer`**
 
 </div>
 
