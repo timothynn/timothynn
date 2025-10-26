@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Timothy+Nduati;%40timothynn;Data+Engineer+%7C+Azure+Certified;Building+Systems+That+Scale" alt="Typing SVG" />
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Timothy Nduati
+</h1>
 
-</div>
+### The Pipeline Architect • @timothynn
+```text
+CS Graduate  |  Azure Certified Data Scientist  |  Aspiring Data Engineer
+                    Software Engineering Background
+```
 
-<div align="center">
-
-**CS Grad • Azure Certified Data Scientist • Software Engineer → Data Engineer**
-
-*Building the bridge between code and insights*
-
-</div>
+*Transforming data into actionable insights, one pipeline at a time*
 
 ---
+
+</div>
 
 ## 🎯 The Journey
 
