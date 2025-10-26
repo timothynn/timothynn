@@ -1,15 +1,15 @@
 <div align="center">
 
-<img height="100" src="https://user-images.githubusercontent.com/yourusername/yourlogo.png" alt="TN Logo"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/yourusername/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/yourusername/header-light.svg">
+  <img alt="Header" src="https://user-images.githubusercontent.com/yourusername/header-dark.svg">
+</picture>
 
-# Timothy Nduati
-## The Data Alchemist
+# TIMOTHY NDUATI
+### `The Pipeline Architect`
 
-![CS Graduate](https://img.shields.io/badge/CS-Graduate-blue?style=for-the-badge)
-![Azure Certified](https://img.shields.io/badge/Azure-Data_Scientist-0078D4?style=for-the-badge&logo=microsoft-azure)
-![Role](https://img.shields.io/badge/Role-Data_Engineer-orange?style=for-the-badge)
-
-**`Software Engineer → Data Scientist → Data Engineer`**
+**`@timothynn`** | Building Data Systems That Scale
 
 </div>
 
