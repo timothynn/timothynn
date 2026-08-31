@@ -1,117 +1,80 @@
 <div align="center">
 
-# NEX VEYRON
+<img src="./assets/nex-banner.svg" alt="Nex Veyron — Systems Architect" width="100%" />
 
-### Systems Architect · Data Engineer · Software Engineer
+<samp>Software Engineer → Data Engineer · Financial Systems · AI Infrastructure</samp>
 
-**I build data systems, developer tools, and infrastructure for intelligent workflows.**
-
-[Website](https://timothynn.dev) · [LinkedIn](https://linkedin.com/in/timothynn) · [X](https://twitter.com/timothynn_)
+[website](https://timothynn.dev) · [linkedin](https://linkedin.com/in/timothynn) · [x](https://twitter.com/timothynn_)
 
 </div>
 
 ---
 
-## `whoami`
+<details open>
+<summary><b>currently</b></summary>
 
-Software engineer with a growing focus on **data engineering, financial systems, AI infrastructure, and developer tooling**.
+Building systems where **data, software, and intelligent tooling** meet.
 
-The work sits at the intersection of software, data, and systems engineering — from pipelines and warehouses to market-data infrastructure, risk models, and programmable AI runtimes.
+Current threads:
 
-> **Build more than consume. Understand systems before trying to optimize them.**
+- **Nexus** — programmable AI runtime / developer harness
+- **Market systems** — ingestion, processing, modeling, and quantitative research
+- **Data engineering** — streaming, ETL/ELT, warehousing, and platform foundations
+- **Linux / NixOS** — reproducible environments and developer infrastructure
 
----
+</details>
 
-## ⚙️ What I'm building
+<details>
+<summary><b>selected work</b></summary>
 
-### ◈ [Nexus](https://github.com/timothynn/Nexus)
-**A programmable AI harness for developers, agents, and autonomous workflows.**
+| project | focus |
+| --- | --- |
+| [Nexus](https://github.com/timothynn/Nexus) | Agent runtime, tools, permissions, sessions, worktrees, MCP, plugins |
+| [nse-quant](https://github.com/timothynn/nse-quant) | Quantitative analysis and market research |
+| [market-data-infra](https://github.com/timothynn/market-data-infra) | Financial market-data infrastructure |
+| [warehouse-neuron](https://github.com/timothynn/warehouse-neuron) | Event-driven warehouse and inventory systems |
+| [financial-risk-prediction](https://github.com/timothynn/financial-risk-prediction) | Predictive financial risk systems |
+| [KenyaInventoryPredictorAI](https://github.com/timothynn/KenyaInventoryPredictorAI) | Inventory forecasting and applied ML |
 
-Provider-neutral models, tool execution, permissions, auditability, sessions, Git worktrees, multi-agent orchestration, MCP, skills, plugins, isolated workspaces, and a terminal operator interface.
+</details>
 
-### 📈 [NSE Quant](https://github.com/timothynn/nse-quant)
-Research and tooling around quantitative analysis and market data.
+<details>
+<summary><b>stack</b></summary>
 
-### 🏦 [Market Data Infrastructure](https://github.com/timothynn/market-data-infra)
-Systems for moving, processing, and serving financial market data.
+**Data** · Python · SQL · Scala · Spark · Kafka · Airflow · PostgreSQL · Redis  
+**Systems** · Linux · NixOS · Docker · Git · CI/CD · APIs · event-driven architecture  
+**AI** · agent runtimes · tool orchestration · MCP · skills · plugins · local-first workflows  
+**Finance** · market data · quantitative research · risk modeling · financial data systems
 
-### 🧠 [Warehouse Neuron](https://github.com/timothynn/warehouse-neuron)
-Real-time inventory and warehouse workflows using event-driven infrastructure.
+</details>
 
-### 💳 [Financial Risk & Credit](https://github.com/timothynn/financial-risk-prediction)
-Exploring predictive systems for financial risk, credit, and decision support.
-
----
-
-## 🧬 Engineering focus
+<details>
+<summary><b>principles</b></summary>
 
 ```text
-DATA
-├── Python · SQL · Scala
-├── Spark · Kafka · Airflow
-├── PostgreSQL · Redis
-└── ETL · ELT · Warehousing · Streaming
-
-SYSTEMS
-├── Docker · Linux · NixOS
-├── Git · CI/CD · DataOps
-├── APIs · Event-driven architecture
-└── Observability · Reproducibility
-
-FINANCE
-├── Market data
-├── Quantitative research
-├── Risk systems
-└── Financial data modeling
-
-AI / DEVTOOLS
-├── Agent runtimes
-├── Tool orchestration
-├── MCP · Skills · Plugins
-└── Local-first developer workflows
+observe  →  understand  →  design  →  build  →  measure  →  evolve
 ```
 
----
+> Build more than consume.
+>
+> Understand systems before trying to optimize them.
+>
+> Turn failures into data.
 
-## 🧭 Current direction
+</details>
 
-Building toward systems that are:
-
-- **Composable** — primitives over rigid workflows
-- **Observable** — important actions should be inspectable
-- **Reproducible** — environments and data flows should be deterministic where possible
-- **Local-first** — useful without surrendering control of the workspace
-- **Automation-friendly** — designed for humans *and* agents
-
----
-
-## 🐺 The mindset
-
-**Observe. Adapt. Build.**
-
-Systems have patterns. Find them.
-
-Failure is data. Use it.
-
-Don't follow paths by default.
-
-> **BUILD. SOLVE. EVOLVE.**
-
----
-
-## 📊 GitHub
+<details>
+<summary><b>github</b></summary>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&icon_color=8b949e&text_color=8b949e&hide=contribs&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&langs_count=8" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&icon_color=8b949e&text_color=8b949e&hide=contribs&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&langs_count=8" alt="Top languages" />
 </p>
+
+</details>
 
 ---
 
 <div align="center">
-
-**NEX VEYRON** · THE SYSTEMS ARCHITECT
-
-`observe` · `analyze` · `engineer` · `evolve`
-
+<samp>🐺 NYX · BUILD. SOLVE. EVOLVE.</samp>
 </div>
