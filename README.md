@@ -2,7 +2,7 @@
 
 <img src="./assets/nex-banner.svg" alt="Nex Veyron — Systems Architect" width="100%" />
 
-<samp>Software Engineer → Data Engineer · Financial Systems · AI Infrastructure</samp>
+<samp>Software Engineer · Aviation Technology · Data Systems · AI Infrastructure</samp>
 
 [website](https://timothynn.dev) · [linkedin](https://linkedin.com/in/timothynn) · [x](https://twitter.com/timothynn_)
 
@@ -13,14 +13,12 @@
 <details open>
 <summary><b>currently</b></summary>
 
-Building systems where **data, software, and intelligent tooling** meet.
+Engineering software for **complex aviation environments**, while exploring systems across data, finance, and AI.
 
-Current threads:
-
-- **Nexus** — programmable AI runtime / developer harness
-- **Market systems** — ingestion, processing, modeling, and quantitative research
-- **Data engineering** — streaming, ETL/ELT, warehousing, and platform foundations
-- **Linux / NixOS** — reproducible environments and developer infrastructure
+**Aviation** · software systems, operational workflows, integration, and reliability  
+**Data** · streaming, ETL/ELT, warehousing, and platform engineering  
+**AI** · agent runtimes, developer tooling, and intelligent workflows  
+**Finance** · market data, quantitative research, risk, and financial systems
 
 </details>
 
@@ -29,7 +27,7 @@ Current threads:
 
 | project | focus |
 | --- | --- |
-| [Nexus](https://github.com/timothynn/Nexus) | Agent runtime, tools, permissions, sessions, worktrees, MCP, plugins |
+| [Nexus](https://github.com/timothynn/Nexus) | Programmable AI runtime, agents, tools, permissions, worktrees, MCP, plugins |
 | [nse-quant](https://github.com/timothynn/nse-quant) | Quantitative analysis and market research |
 | [market-data-infra](https://github.com/timothynn/market-data-infra) | Financial market-data infrastructure |
 | [warehouse-neuron](https://github.com/timothynn/warehouse-neuron) | Event-driven warehouse and inventory systems |
@@ -39,12 +37,32 @@ Current threads:
 </details>
 
 <details>
-<summary><b>stack</b></summary>
+<summary><b>engineering</b></summary>
 
-**Data** · Python · SQL · Scala · Spark · Kafka · Airflow · PostgreSQL · Redis  
+**Languages** · Python · SQL · Scala · Rust  
+**Data** · Spark · Kafka · Airflow · PostgreSQL · Redis  
 **Systems** · Linux · NixOS · Docker · Git · CI/CD · APIs · event-driven architecture  
-**AI** · agent runtimes · tool orchestration · MCP · skills · plugins · local-first workflows  
-**Finance** · market data · quantitative research · risk modeling · financial data systems
+**AI / DevTools** · agent runtimes · tool orchestration · MCP · skills · plugins · local-first workflows  
+**Domains** · aviation technology · financial systems · logistics · applied ML
+
+</details>
+
+<details>
+<summary><b>direction</b></summary>
+
+```text
+software
+   ↓
+aviation systems
+   ↓
+data & infrastructure
+   ↓
+finance & quantitative systems
+   ↓
+ai & developer infrastructure
+```
+
+Interested in systems that are **reliable, observable, reproducible, composable, and automation-friendly**.
 
 </details>
 
@@ -52,14 +70,13 @@ Current threads:
 <summary><b>principles</b></summary>
 
 ```text
-observe  →  understand  →  design  →  build  →  measure  →  evolve
+observe → understand → design → build → measure → evolve
 ```
 
-> Build more than consume.
->
-> Understand systems before trying to optimize them.
->
-> Turn failures into data.
+> Build more than consume.  
+> Understand systems before optimizing them.  
+> Turn failure into data.  
+> Keep learning.
 
 </details>
 
