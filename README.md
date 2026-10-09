@@ -1,97 +1,81 @@
 <div align="center">
 
-<img src="./assets/nex-banner.svg" alt="Nex Veyron — Systems Architect" width="100%" />
+<img src="./assets/nex-banner.svg" alt="Timothy Nduati — Engineering systems where software meets the real world" width="100%" />
 
-<samp>Software Engineer · Aviation Technology · Data Systems · AI Infrastructure</samp>
+**Software Engineer** · Aviation Technology · Data Platforms · AI Infrastructure
 
-[website](https://timothynn.dev) · [linkedin](https://linkedin.com/in/timothynn) · [x](https://twitter.com/timothynn_)
+I build software for complex aviation environments and explore the systems behind data, markets, and intelligent developer tools.
+
+[**Portfolio**](https://timothynn.is-a.dev/) · [GitHub projects](https://github.com/timothynn?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/timothynn/) · [X](https://x.com/timothynn_)
 
 </div>
 
 ---
 
-<details open>
-<summary><b>currently</b></summary>
+### Selected work
 
-Engineering software for **complex aviation environments**, while exploring systems across data, finance, and AI.
+| Project | Engineering focus |
+| :-- | :-- |
+| **[Nexus](https://github.com/timothynn/Nexus)** | Model-agnostic AI harness: agents, tools, permissions, worktrees and orchestration |
+| **[Aviation Intelligence](https://github.com/timothynn/aviation-intelligence)** | Evidence-grounded aviation document intelligence and decision-support tooling |
+| **[Market Data Infrastructure](https://github.com/timothynn/market-data-infra)** | Data ingestion, normalization, time-series storage, and low-latency APIs |
+| **[Warehouse Neuron](https://github.com/timothynn/warehouse-neuron)** | Event-driven inventory workflows with FastAPI, Redis Streams and Flutter |
 
-**Aviation** · software systems, operational workflows, integration, and reliability  
-**Data** · streaming, ETL/ELT, warehousing, and platform engineering  
-**AI** · agent runtimes, developer tooling, and intelligent workflows  
-**Finance** · market data, quantitative research, risk, and financial systems
+<details>
+<summary><b>More projects</b></summary>
+
+<br/>
+
+- **[Trading Pipeline](https://github.com/timothynn/trading-pipeline)** — Kafka-powered streaming, financial analytics, and risk-oriented workflows.
+- **[NixOS Config Manager](https://github.com/timothynn/nixos-config-manager)** — Reproducible Linux configuration with Nix flakes and Rust tooling.
+- [Browse all public repositories →](https://github.com/timothynn?tab=repositories)
 
 </details>
 
 <details>
-<summary><b>selected work</b></summary>
+<summary><b>Technical toolkit</b></summary>
 
-| project | focus |
-| --- | --- |
-| [Nexus](https://github.com/timothynn/Nexus) | Programmable AI runtime, agents, tools, permissions, worktrees, MCP, plugins |
-| [nse-quant](https://github.com/timothynn/nse-quant) | Quantitative analysis and market research |
-| [market-data-infra](https://github.com/timothynn/market-data-infra) | Financial market-data infrastructure |
-| [warehouse-neuron](https://github.com/timothynn/warehouse-neuron) | Event-driven warehouse and inventory systems |
-| [financial-risk-prediction](https://github.com/timothynn/financial-risk-prediction) | Predictive financial risk systems |
-| [KenyaInventoryPredictorAI](https://github.com/timothynn/KenyaInventoryPredictorAI) | Inventory forecasting and applied ML |
+<br/>
 
-</details>
-
-<details>
-<summary><b>engineering</b></summary>
-
-**Languages** · Python · SQL · Scala · Rust  
-**Data** · Spark · Kafka · Airflow · PostgreSQL · Redis  
-**Systems** · Linux · NixOS · Docker · Git · CI/CD · APIs · event-driven architecture  
-**AI / DevTools** · agent runtimes · tool orchestration · MCP · skills · plugins · local-first workflows  
-**Domains** · aviation technology · financial systems · logistics · applied ML
+| Area | Technologies |
+| :-- | :-- |
+| Languages | Python · TypeScript · C# · SQL · Rust · Go |
+| Data | PostgreSQL · Kafka · Redis · Spark · Airflow |
+| Platforms | Linux · NixOS · Docker · CI/CD · Git |
+| Software | .NET · Angular · APIs · event-driven systems · agent runtimes |
 
 </details>
 
 <details>
-<summary><b>direction</b></summary>
+<summary><b>What I'm exploring</b></summary>
 
-```text
-software
-   ↓
-aviation systems
-   ↓
-data & infrastructure
-   ↓
-finance & quantitative systems
-   ↓
-ai & developer infrastructure
-```
+<br/>
 
-Interested in systems that are **reliable, observable, reproducible, composable, and automation-friendly**.
+- **Aviation technology** — reliable software, regulatory workflows, provenance, and interoperability.
+- **Data and finance** — market-data infrastructure, analytics, stream processing, and systems reliability.
+- **AI infrastructure** — model-agnostic tools, grounded retrieval, orchestration, and developer experience.
+
+My open-source aviation work is independent of my employer's projects. No client or proprietary implementation details are shared here.
 
 </details>
 
 <details>
-<summary><b>principles</b></summary>
+<summary><b>Engineering principles</b></summary>
 
-```text
+<br/>
+
+\`\`\`text
 observe → understand → design → build → measure → evolve
-```
+\`\`\`
 
-> Build more than consume.  
-> Understand systems before optimizing them.  
-> Turn failure into data.  
-> Keep learning.
-
-</details>
-
-<details>
-<summary><b>github</b></summary>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=timothynn&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&icon_color=8b949e&text_color=8b949e&hide=contribs&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothynn&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&langs_count=8" alt="Top languages" />
-</p>
+Build more than you consume. Understand a system before optimizing it. Keep the architecture understandable.
 
 </details>
 
 ---
 
 <div align="center">
-<samp>🐺 NYX · BUILD. SOLVE. EVOLVE.</samp>
+
+<sub>NAIROBI, KENYA · NEX / NYX · BUILD. SOLVE. EVOLVE.</sub>
+
 </div>
